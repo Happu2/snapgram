@@ -7,9 +7,12 @@ Feature
 Installation
 
 
-1)git clone https://github.com/Happu2/snapgram.git
-2)npm install
-3)npm start
+git clone https://github.com/Happu2/snapgram.git)
+
+npm install
+
+npm start
+
 
 Tech Stack
   Frontend: React+vite,typescript,CSS,HTML
