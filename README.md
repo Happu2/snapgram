@@ -18,7 +18,7 @@ Tech Stack
   Frontend: React+vite,typescript,CSS,HTML
     Backend: appwrite
 
-C:\Users\Admin\Pictures\Screenshots\Screenshot (51).png?raw=true "snapgram"
+![Screenshot 2024-08-30 132141](https://github.com/user-attachments/assets/85d5cf0d-9d8f-4336-918b-5daa7ed05d6e)
 
     
 
