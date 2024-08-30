@@ -19,7 +19,7 @@ Tech Stack
     Backend: appwrite
 
 
-    ![Screenshot (51)](https://github.com/user-attachments/assets/2d6313ef-f149-4a50-8ecb-6dfe319a581a)
+    
 
 
 
