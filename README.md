@@ -18,7 +18,7 @@ Tech Stack
   Frontend: React+vite,typescript,CSS,HTML
     Backend: appwrite
 
-C:\Users\Admin\Pictures\Screenshots\Screenshot (51).png
+C:\Users\Admin\Pictures\Screenshots\Screenshot (51).png?raw=true "snapgram"
 
     
 
