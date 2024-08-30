@@ -19,6 +19,7 @@ Tech Stack
     Backend: appwrite
 
 ![Screenshot 2024-08-30 132141](https://github.com/user-attachments/assets/85d5cf0d-9d8f-4336-918b-5daa7ed05d6e)
+![Screenshot 2024-08-30 133015](https://github.com/user-attachments/assets/4e8e4176-f130-4874-81d8-5153ca8768a3)
 
     
 
